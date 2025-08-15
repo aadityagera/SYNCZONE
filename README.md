@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# 📱 SyncZONE
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**SyncZONE** is a modern React Native community-based platform that connects people from various fields — such as **Tech, Music, Dance, Drama, Sports, Art, Literature, and more** — across different colleges in the same area.  
+The app allows users to explore nearby communities, join societies, view updates/events, and even create their own communities.  
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
+### **For Users**
+- 🔍 Explore nearby societies by category (Tech, Music, Dance, etc.)
+- 📅 Stay updated with upcoming events & webinars
+- 🗺️ View communities on an **Animated Explorer Map**
+- 💬 Interact through likes, comments, and shares on community posts
+- 📝 Join societies directly through the app
+
+### **For Community Creators/Admins**
+- 🛠️ Create and manage communities
+- 📣 Post updates and announcements
+- 👥 Track and approve join requests
+
+---
+
+## 🛠️ Tech Stack
+
+- **React Native** (Expo)
+- **Firebase Authentication** – Secure login/signup
+- **Cloud Firestore** – Real-time data storage
+- **React Navigation** – Smooth navigation between screens
+- **React Native Maps** – Location-based community explorer
+- **Lottie Animations** – Modern UI/UX experience
+
+---
+
+## 📸 Screenshots
+
+| Onboarding | Home Screen | Community Details |
+|------------|------------|-------------------|
+| ![Onboarding](./assets/screenshots/onboarding.png) | ![Home](./assets/screenshots/home.png) | ![Community](./assets/screenshots/community.png) |
+
+| Create Community | Map Explorer | Events & Webinars |
+|------------------|--------------|-------------------|
+| ![Create](./assets/screenshots/create.png) | ![Map](./assets/screenshots/map.png) | ![Events](./assets/screenshots/events.png) |
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   git clone https://github.com/yourusername/SyncZONE.git
+   cd SyncZONE
