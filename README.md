@@ -36,11 +36,11 @@ The app allows users to explore nearby communities, join societies, view updates
 
 | Onboarding | Home Screen | Community Details |
 |------------|------------|-------------------|
-| ![Onboarding](./assets/screenshots/onboarding.png) | ![Home](./assets/screenshots/home.png) | ![Community](./assets/screenshots/community.png) |
+| ![Onboarding](./assets/1.jpg) | ![Home](./assets/2.jpg) | ![Community](./assets/3.jpg) |
 
 | Create Community | Map Explorer | Events & Webinars |
 |------------------|--------------|-------------------|
-| ![Create](./assets/screenshots/create.png) | ![Map](./assets/screenshots/map.png) | ![Events](./assets/screenshots/events.png) |
+| ![Create](./assets/4.jpg) | ![Map](./assets/screenshots/map.png) | ![Events](./assets/5.jpg) |
 
 ---
 
